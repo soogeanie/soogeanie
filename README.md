@@ -29,7 +29,7 @@
 <img src="assets/blue-bows.gif" height="75">
 </div>
 
-<h2 align="center">about <img src="assets/sky-moon.gif" width="150"></h2>
+<h2 align="center">🌙  about  <h2>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
     
@@ -54,6 +54,8 @@
 
 <h2 align="center"><img src="assets/twinkling-stars.gif" width="25"> current system state <img src="assets/twinkling-stars.gif" width="25"></h2>
 
+<img align="right" src="assets/sky-moon.gif" width="150"> 
+  
 | metric | status |
 |--------|--------|
 | code quality | doing her best |
