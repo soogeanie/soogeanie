@@ -64,9 +64,11 @@
 - a forgotten glass of water always nearby  
 - collection of slightly cursed components  
 
+<br><br>
 <div align="center">
   <img src="assets/purple-bow-divider.gif" height="75">
 </div>
+<br><br>
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
@@ -92,7 +94,7 @@ creativity ▓▓▓▓▓▓▓▓▓░
 chaos      ▓▓▓░░░░░░░
 
 
-<br>
+<br><br>
 <div align="center">
   <img src="assets/purple-bow-divider.gif" height="75">
 </div>
@@ -143,9 +145,8 @@ there's only 1 correct answer.
 **is this really you?**  
 debatable.
 
-<br><br>
 <div align="center">
-<img src="assets/line-stars" height="30">
-<img src="assets/line-stars" height="30">
-<img src="assets/line-stars" height="30">
+<img src="assets/line-stars.gif" height="30">
+<img src="assets/line-stars.gif" height="30">
+<img src="assets/line-stars.gif" height="30">
 </div>
