@@ -1,9 +1,9 @@
 <div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1><img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"></h1>
+      <h1>welcome to my digital lair</h1>
       <div align="center">
-        <img src="assets/purple-bow-divider.gif" height="75">
+        <img src="assets/purple-bow-divider.gif" height="100">
       </div>
     </summary>
   </ul>
@@ -23,6 +23,8 @@
 <br><br>
 <div align="center">
 <img src="assets/pink-divider.gif" height="20">
+<img src="assets/pink-divider.gif" height="20">
+<img src="assets/pink-divider.gif" height="20">
 </div>
 <br><br>
 
@@ -39,9 +41,15 @@
 
 <br><br><br>
 
-<h2 align="center">🌙  about  </h2>
 <div align="center">
-<img src="assets/moon-divider.gif" height="75">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 align="center">about</h2>
+      <div align="center">
+        <img src="assets/moon-divider.gif" height="75">
+      </div>
+    </summary>
+  </ul>
 </div>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
@@ -63,13 +71,6 @@
 - a forgotten glass of water always nearby  
 - collection of slightly cursed components  
 
-<br><br>
-<div align="center">
-<img src="assets/pink-divider.gif" height="25">
-<img src="assets/pink-divider.gif" height="25">
-<img src="assets/pink-divider.gif" height="25">
-</div>
-<br><br>
 
 <h2 align="center"><img src="assets/twinkling-stars.gif" width="25"> current system state <img src="assets/twinkling-stars.gif" width="25"></h2>
 
