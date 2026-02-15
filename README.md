@@ -2,8 +2,12 @@
 
 <br>
 
-<img align="left" src="assets/call-the-spirits.gif" width="200">
-<p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
+<div>
+    <img align="left" src="assets/call-the-spirits.gif" width="200">
+    <p>&nbsp;&nbsp;&nbsp;</p>
+    <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
+</div>
+<br><br>
 
 <!--<div align="left">&nbsp;&nbsp;&nbsp;
   <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
@@ -13,8 +17,6 @@
     sometimes i am haunted by my code.
   </blockquote>
 </div>-->
-
-<br><br>  
 
 <img align="right" src="assets/record-spinning.gif" width="300">
 <div>
