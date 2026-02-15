@@ -25,20 +25,17 @@
 
 <br><br><br>
 
-<div align="center"><img src="assets/moon-divider.gif" height="50"></div>
-<br><br>
-
-<h2 align="center"> 🌙  about </h2>
+<h2 align="center"><img src="assets/moon-divider.gif" height="30">  about <img src="assets/moon-divider.gif" height="30"></h2>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
     
-**likes:**  
+**likes:**
 - iced matcha americanos  
 - cats judging my code  
 - subtle chaos with intent  
 - icelandic water  
 
-**known issues:**  
+**known issues:**
 - forgets to eat  
   
     
@@ -50,7 +47,7 @@
 - collection of slightly cursed components  
 
 
-### 🍵 current system state
+## 🍵 current system state
 
 | metric | status |
 |--------|--------|
