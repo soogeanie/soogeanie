@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1>
     
-<img align="right" src="assets/call-the-spirits.gif" width="200">
+<img align="left" src="assets/call-the-spirits.gif" width="200">
     
 i design systems that survive.  
 professional pixel tamer.  
