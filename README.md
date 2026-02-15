@@ -1,27 +1,11 @@
 <h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1>
 
 <br>
-    
-<table cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="200" valign="top">
-    <img src="assets/call-the-spirits.gif" width="200" alt="call the spirits">
-    </td>
-    <td valign="top">
-    i design systems that survive.<br>
-    professional pixel tamer.<br>
-    everything is throwaway until it's not.<br><br>
-    <blockquote>
-        sometimes my code is haunted.<br>
-        sometimes i am haunted by my code.
-    </blockquote>
-    </td>
-  </tr>
-</table>
 
-<!--<img align="left" src="assets/call-the-spirits.gif" width="200">
+<img align="left" src="assets/call-the-spirits.gif" width="200">
+<p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
 
-<div align="left">&nbsp;&nbsp;&nbsp;
+<!--<div align="left">&nbsp;&nbsp;&nbsp;
   <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
 
   <blockquote>
