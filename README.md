@@ -24,13 +24,11 @@
   </ul>
 </div>
 
-<br><br><br>
-
+<br><br><br><br>
 <div align="center">
-  <img src="assets/moon-divider.gif" height="75">
+  <img src="assets/moon-divider.gif" height="50">
 </div>
-    
-<br><br>
+<br>
 
 <h2 align="center">🌙  about</h2>
 
