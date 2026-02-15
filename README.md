@@ -3,7 +3,7 @@
 <br>
     
 <img align="left" src="assets/call-the-spirits.gif" width="200">
-<table>
+<table style="padding-left: 20px;">
     <tr>
         <td>i design systems that survive.<br> professional pixel tamer.<br> everything is throwaway until it's not.</td>
     </tr>
