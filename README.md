@@ -12,7 +12,7 @@ everything is throwaway until it's not
 
 <br><br>
 <div>
-  <img src="assets/record-spinning.gif" width="300">
+  <img align="right" src="assets/record-spinning.gif" width="300">
   <br>
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
   <ul style="margin: 0; padding: 0;">
