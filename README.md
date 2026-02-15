@@ -25,7 +25,7 @@
 
 <br><br><br>
 
-<h2 align="center"><img src="assets/moon-divider.gif" height="30">  about <img src="assets/moon-divider.gif" height="30"></h2>
+<h2 align="center" valign="center"><img src="assets/moon-divider.gif" height="30">  about <img src="assets/moon-divider.gif" height="30"></h2>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
     
