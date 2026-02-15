@@ -28,9 +28,8 @@
 <div align="center">
 <img src="assets/blue-bows.gif" height="75">
 </div>
-<br>
 
-<h2 align="center"><img src="assets/sky-moon.gif" width="100">  about</h2>
+<h2 align="center">about <img src="assets/sky-moon.gif" width="150"></h2>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
     
