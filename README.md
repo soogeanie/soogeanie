@@ -73,7 +73,7 @@
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
-      <h3>current system state</h2>
+      <h3>current system state</h3>
     </summary>
   </ul>
 </div>
@@ -103,7 +103,7 @@ chaos      ▓▓▓░░░░░░░
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
-      <h3>📜 developer lore 📜</h2>
+      <h3>developer lore 📜</h3>
     </summary>
   </ul>
 </div>
@@ -128,8 +128,7 @@ present — still shipping to production on Fridays.
 </div>
 <br><br>
 
-<h3>frequently avoided questions</h3>
-<hr>
+### frequently avoided questions
 
 **what stack do you use?**  
 whatever feels emotionally aligned.
