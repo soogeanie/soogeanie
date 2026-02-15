@@ -11,9 +11,8 @@
 > &nbsp;&nbsp; sometimes i am haunted by my code.
 
 <br><br>
+<img align="right" src="assets/record-spinning.gif" width="300">
 <div>
-  <img align="right" src="assets/record-spinning.gif" width="300">
-  <br>
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
   <ul style="margin: 0; padding: 0;">
     <li>august burns red</li>
