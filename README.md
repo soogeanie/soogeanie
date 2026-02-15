@@ -1,4 +1,4 @@
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>welcome to my digital lair</h1>
