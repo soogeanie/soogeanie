@@ -1,6 +1,7 @@
 <h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1>
 <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
 
+<div align="center"><img src="assets/moon-divider.gif" height="50"></div>
 
 <img align="right" src="assets/record-spinning.gif" width="300">
 <div>
@@ -15,10 +16,11 @@
 <br><br>
   
   
-<img src="assets/moon-divider.gif" height="50">
+<div align="center"><img src="assets/moon-divider.gif" height="50"></div>
     
   
-## 🌙 about
+<h2 align="center"> 🌙 about </h2>
+
 **likes:**  
 - iced matcha americanos  
 - cats judging my code  
