@@ -128,8 +128,8 @@ present — still shipping to production on Fridays.
 </div>
 <br><br>
 
-#### frequently avoided questions
-<hr>
+<h3>frequently avoided questions</h3>
+
 **what stack do you use?**  
 whatever feels emotionally aligned.
 
