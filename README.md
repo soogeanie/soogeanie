@@ -72,8 +72,9 @@ chaos      ▓▓▓░░░░░░░
 
 <br><br>
 <div align="center">
-<img src="assets/moon-divider.gif" height="100">
+<img src="assets/pink-divider.gif" height="50">
 </div>
+<br><br>
 
 <details>
   <summary><h2>developer lore</h2></summary>
