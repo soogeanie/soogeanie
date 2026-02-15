@@ -8,6 +8,7 @@
     </summary>
   </ul>
 </div>
+<br><br>
     
 <img align="left" src="assets/call-the-spirits.gif" width="200">
     
