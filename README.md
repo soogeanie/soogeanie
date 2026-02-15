@@ -3,7 +3,7 @@
     <summary>
       <h1>welcome to my digital lair</h1>
       <div align="center">
-        <img src="assets/purple-bow-divider.gif" height="100">
+        <img src="assets/blue-bows.gif" height="100">
       </div>
     </summary>
   </ul>
@@ -46,7 +46,7 @@
     <summary>
       <h2 align="center">about</h2>
       <div align="center">
-        <img src="assets/moon-divider.gif" height="75">
+        <img src="assets/purple-bow-divider.gif" height="100">
       </div>
     </summary>
   </ul>
@@ -77,7 +77,7 @@
     <summary>
       <h2 align="center">current system state</h2>
       <div align="center">
-        <img src="assets/blue-bows.gif" height="75">
+        <img src="assets/moon-divider.gif" height="75">
       </div>
     </summary>
   </ul>
@@ -99,13 +99,7 @@ creativity ▓▓▓▓▓▓▓▓▓░
 chaos      ▓▓▓░░░░░░░
 
 
-<br><br>
-<div align="center">
-<img src="assets/pink-divider.gif" height="25">
-<img src="assets/pink-divider.gif" height="25">
-<img src="assets/pink-divider.gif" height="25">
-</div>
-<br><br>
+<br><br><br>
 
 <h2 align="center">📜 developer lore 📜</h2>
 
