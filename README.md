@@ -28,19 +28,19 @@
 <div align="center"><img src="assets/moon-divider.gif" height="50"></div>
 <br><br>
 
-<h2 align="center"> 🌙 about </h2>
-  
-  
+<h2 align="center"> 🌙  about </h2>
+
+<img align="right" src="assets/bongo-cat-typing.gif" width="250">   
+    
 **likes:**  
 - iced matcha americanos  
 - cats judging my code  
 - subtle chaos with intent  
-- icelandic water   
+- icelandic water  
 
 **known issues:**  
 - forgets to eat  
   
-<img align="right" src="assets/bongo-cat-typing.gif" width="250">   
     
 ### 🐈‍⬛ coding companions
 - pixel cats supervising commits [🔗](https://tonybaloney.github.io/vscode-pets/)  
