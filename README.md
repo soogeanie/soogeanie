@@ -2,7 +2,9 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h1><img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"></h1>
-      <img src="assets/purple-bow-divider.gif" height="75">
+      <div align="center">
+        <img src="assets/purple-bow-divider.gif" height="75">
+      </div>
     </summary>
   </ul>
 </div>
