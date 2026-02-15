@@ -37,10 +37,10 @@
 <div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
     <summary>
+      <h2 align="center">about</h2>
       <div align="center">
         <img src="assets/blue-bows.gif" height="75">
       </div>
-      <h2 align="center">about</h2>
     </summary>
   </ul>
 </div>
@@ -64,14 +64,14 @@
 - a forgotten glass of water always nearby  
 - collection of slightly cursed components  
 
+<div align="center">
+  <img src="assets/purple-bow-divider.gif" height="75">
+</div>
 
-<div id="user-content-toc" align="center">
-  <ul align="center" style="list-style: none;">
+<div id="user-content-toc">
+  <ul style="list-style: none;">
     <summary>
-      <h2 align="center">current system state</h2>
-      <div align="center">
-        <img src="assets/purple-bow-divider.gif" height="50">
-      </div>
+      <h2>current system state</h2>
     </summary>
   </ul>
 </div>
@@ -92,15 +92,16 @@ creativity ▓▓▓▓▓▓▓▓▓░
 chaos      ▓▓▓░░░░░░░
 
 
-<br><br><br>
-
-<div id="user-content-toc" align="center">
-  <ul align="center" style="list-style: none;">
+<br>
+<div align="center">
+  <img src="assets/purple-bow-divider.gif" height="75">
+</div>
+<br><br>
+    
+<div id="user-content-toc">
+  <ul style="list-style: none;">
     <summary>
-      <h2 align="center">📜 developer lore 📜</h2>
-      <div align="center">
-        <img src="assets/purple-bow-divider.gif" height="50">
-      </div>
+      <h2>📜 developer lore 📜</h2>
     </summary>
   </ul>
 </div>
@@ -121,19 +122,14 @@ present — still shipping to production on Fridays.
   
 <br><br>
 <div align="center">
-<img src="assets/pink-divider.gif" height="25">
-<img src="assets/pink-divider.gif" height="25">
-<img src="assets/pink-divider.gif" height="25">
+  <img src="assets/purple-bow-divider.gif" height="75">
 </div>
 <br><br>
 
-<div id="user-content-toc" align="center">
-  <ul align="center" style="list-style: none;">
+<div id="user-content-toc">
+  <ul style="list-style: none;">
     <summary>
       <h3>frequently avoided questions</h3>
-      <div align="center">
-        <img src="assets/purple-bow-divider.gif" height="50">
-      </div>
     </summary>
   </ul>
 </div>
@@ -149,6 +145,7 @@ debatable.
 
 <br><br>
 <div align="center">
-<img src="assets/moon-divider.gif" height="75">
+<img src="assets/line-stars" height="30">
+<img src="assets/line-stars" height="30">
+<img src="assets/line-stars" height="30">
 </div>
-<br><br>
