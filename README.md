@@ -78,11 +78,16 @@ chaos      ▓▓▓░░░░░░░
 
 <br><br>
 <div align="center">
-<img src="assets/purple-bow-divider.gif" height="75">
+<img src="assets/pink-divider.gif" height="25">
+<img src="assets/pink-divider.gif" height="25">
+<img src="assets/pink-divider.gif" height="25">
 </div>
 <br><br>
 
-<h2>📜 developer lore 📜</h2>
+<h2 align="center">📜 developer lore 📜</h2>
+<div align="center">
+<img src="assets/purple-bow-divider.gif" height="75">
+</div>
 
 1997 — opened microsoft paint. became unstoppable.  
 1998 — Comic Sans and gradients entered my life, chaos was born.  
@@ -100,9 +105,9 @@ present — still shipping to production on Fridays.
   
 <br><br>
 <div align="center">
-<img src="assets/blue-hearts.gif" height="25">
-<img src="assets/blue-hearts.gif" height="25">
-<img src="assets/blue-hearts.gif" height="25">
+<img src="assets/pink-divider.gif" height="25">
+<img src="assets/pink-divider.gif" height="25">
+<img src="assets/pink-divider.gif" height="25">
 </div>
 <br><br>
 
