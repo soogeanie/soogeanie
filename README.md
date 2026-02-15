@@ -29,7 +29,7 @@
 <img src="assets/blue-bows.gif" height="75">
 </div>
 
-<h2 align="center">🌙  about  <h2>
+<h2 align="center">🌙  about  </h2>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
     
@@ -54,7 +54,7 @@
 
 <h2 align="center"><img src="assets/twinkling-stars.gif" width="25"> current system state <img src="assets/twinkling-stars.gif" width="25"></h2>
 
-<img align="right" src="assets/sky-moon.gif" width="150"> 
+<img align="right" src="assets/sky-moon.gif" width="300"> 
   
 | metric | status |
 |--------|--------|
@@ -68,3 +68,39 @@
 focus      ▓▓▓▓▓▓▓▓░░  
 creativity ▓▓▓▓▓▓▓▓▓░  
 chaos      ▓▓▓░░░░░░░
+
+
+<br><br>
+<div align="center">
+<img src="assets/moon-divider.gif" height="100">
+</div>
+
+<details>
+  <summary><h2>developer lore</h2></summary>
+
+  1997 — opened microsoft paint. became unstoppable.
+  
+  1998 — Comic Sans and gradients entered my life, chaos was born.
+  
+  2002 — discovered HTML. felt powerful.
+  
+  2003 — learned CSS, immediately made neon headings blink (don’t ask),
+  
+  2005 — animated GIF headers everywhere. did it really need to blink? yes.
+  
+  2008 — rewrote my homepage 3 times in one night, all pixel-perfect, all slightly cursed.
+  
+  2010 — wrote something that worked first try (still thinking about it).
+  
+  2014 — first JavaScript bug haunted me for a week,
+  
+  2016 — discovered dark mode. transcended.
+  
+  2020 — became one with the terminal.
+  
+  2022 — achieved enlightment via `git reset HEAD^`.
+  
+  2024 — shipped to production on a Friday.
+  
+  present — still shipping to production on Fridays.
+</details>
