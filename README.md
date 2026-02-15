@@ -32,8 +32,9 @@
 **known issues:**  
 - forgets to eat  
   
+<img align="right" src="assets/bongo-cat-typing.gif" width="250"> 
   
-### <img src="assets/cat-typing.gif" width="50"> coding companions
+### 🐈‍⬛ coding companions
 - pixel cats supervising commits [🔗](https://tonybaloney.github.io/vscode-pets/)  
 - cozy cat themed text editors [🔗](https://catppuccin.com/)  
 - a terminal window softly glowing [🔗](https://draculatheme.com/warp)  
@@ -41,7 +42,7 @@
 - collection of slightly cursed components  
 
 
-## 🍵 current system state
+### 🍵 current system state
 
 | metric | status |
 |--------|--------|
