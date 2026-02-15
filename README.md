@@ -4,30 +4,13 @@
 > professional pixel tamer  
 > everything is throwaway until it's not
 
-<table>
-    <tr>
-        <td>
-            ## 🌙 about  
+## 🌙 about  
 
-            likes:
-            - iced matcha americanos
-            - cats judging my code
-            - subtle chaos with intent
-            - icelandic water
-            
-            known issues:
-            - forgets to eat
+likes:
+- iced matcha americanos
+- cats judging my code
+- subtle chaos with intent
+- icelandic water
 
-        </td>
-        <td>
-
-            **🎧 currently listening to:**  
-            ![music GIF](assets/record-spinning.gif)
-            - august burns red  
-            - i prevail  
-            - bring me the horizon  
-            - linkin park 💖  
-
-        </td>
-    </tr>
-</table>
+known issues:
+- forgets to eat
