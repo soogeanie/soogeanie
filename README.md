@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1>
+<h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1><br>
 <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
 
 > sometimes my code is haunted.  
@@ -21,7 +21,7 @@
 <div align="center"><img src="assets/moon-divider.gif" height="50"></div>
 <br><br><br>
   
-<h2 align="center"> 🌙 about </h2>
+## 🌙 about  
 
 **likes:**  
 - iced matcha americanos  
@@ -33,15 +33,16 @@
 - forgets to eat  
   
   
-### 🐈 coding companions
-<img align="right" src="assets/bongo-cat-typing.gif" width="200">
-    
-- pixel cats supervising commits [🔗](https://tonybaloney.github.io/vscode-pets/)  
-- cozy cat themed text editors [🔗](https://catppuccin.com/)  
-- a terminal window softly glowing [🔗](https://draculatheme.com/warp)  
-- a forgotten glass of water always nearby  
-- collection of slightly cursed components  
-
+<h2><img src="assets/cat-typing.gif" width="25> coding companions</h2>
+<div>
+  <ul>
+    <li>pixel cats supervising commits [🔗](https://tonybaloney.github.io/vscode-pets/)</li>
+    <li>cozy cat themed text editors [🔗](https://catppuccin.com/)</li>
+    <li>a terminal window softly glowing [🔗](https://draculatheme.com/warp)</li>
+    <li>a forgotten glass of water always nearby</li>
+    <li>collection of slightly cursed components</li>
+  </ul>  
+</div>
 <br><br><br>
 
 ## 🍵 current system state
