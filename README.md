@@ -1,8 +1,12 @@
 <h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1>
 <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
-
+<br><br><br><br>
+  
+  
 <div align="center"><img src="assets/moon-divider.gif" height="50"></div>
-
+<br><br><br><br>
+  
+  
 <img align="right" src="assets/record-spinning.gif" width="300">
 <div>
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
@@ -13,11 +17,11 @@
     <li>linkin park 💖</li> 
   </ul>
 </div>
-<br><br>
+<br><br><br><br>
   
   
 <div align="center"><img src="assets/moon-divider.gif" height="50"></div>
-    
+<br><br><br><br>
   
 <h2 align="center"> 🌙 about </h2>
 
