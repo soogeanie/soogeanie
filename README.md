@@ -4,7 +4,7 @@
 
 <img align="left" src="assets/call-the-spirits.gif" width="200">
 
-<div align="left" style="padding-left: 20px;">
+<div align="left">&nbsp;&nbsp;&nbsp;
   <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
 
   <blockquote>
@@ -15,9 +15,8 @@
 
 <br><br>  
 
+<img align="right" src="assets/record-spinning.gif" width="300">
 <div>
-  <img src="assets/record-spinning.gif" width="300">
-  <br>
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
   <ul style="margin: 0; padding: 0;">
     <li>august burns red</li>
