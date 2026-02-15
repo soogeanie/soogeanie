@@ -46,7 +46,7 @@
     <summary>
       <h2 align="center">about</h2>
       <div align="center">
-        <img src="assets/purple-bow-divider.gif" height="100">
+        <img src="assets/purple-bow-divider.gif" height="50">
       </div>
     </summary>
   </ul>
@@ -77,7 +77,7 @@
     <summary>
       <h2 align="center">current system state</h2>
       <div align="center">
-        <img src="assets/moon-divider.gif" height="75">
+        <img src="assets/purple-bow-divider.gif" height="50">
       </div>
     </summary>
   </ul>
@@ -101,7 +101,16 @@ chaos      ▓▓▓░░░░░░░
 
 <br><br><br>
 
-<h2 align="center">📜 developer lore 📜</h2>
+<div id="user-content-toc" align="center">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 align="center">📜 developer lore 📜</h2>
+      <div align="center">
+        <img src="assets/purple-bow-divider.gif" height="50">
+      </div>
+    </summary>
+  </ul>
+</div>
 
 1997 — opened microsoft paint. became unstoppable.  
 1998 — Comic Sans and gradients entered my life, chaos was born.  
@@ -125,18 +134,25 @@ present — still shipping to production on Fridays.
 </div>
 <br><br>
 
-<details>
-  <summary><h3>frequently avoided questions</h3></summary>
+<div id="user-content-toc" align="center">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h3>frequently avoided questions</h3>
+      <div align="center">
+        <img src="assets/purple-bow-divider.gif" height="50">
+      </div>
+    </summary>
+  </ul>
+</div>
 
-  **what stack do you use?**  
-  whatever feels emotionally aligned.
-  
-  **tabs or spaces?**  
-  there's only 1 correct answer.
-  
-  **is this really you?**  
-  debatable.
-</details>
+**what stack do you use?**  
+whatever feels emotionally aligned.
+
+**tabs or spaces?**  
+there's only 1 correct answer.
+
+**is this really you?**  
+debatable.
 
 <br><br>
 <div align="center">
