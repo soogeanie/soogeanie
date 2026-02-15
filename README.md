@@ -13,8 +13,7 @@
 <br><br><br>
 
 <div>
-  <img src="assets/record-spinning.gif" width="300">
-  <br>
+  <img align="right" src="assets/record-spinning.gif" width="300">
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
   <ul style="margin: 0; padding: 0;">
     <li>august burns red</li>
@@ -28,8 +27,6 @@
 <div align="center"><img src="assets/moon-divider.gif" height="50"></div>
 <br><br>
 
-<img align="right" src="assets/bongo-cat-typing.gif" width="250">   
-
 ## 🌙 about  
 **likes:**  
 - iced matcha americanos  
@@ -40,7 +37,8 @@
 **known issues:**  
 - forgets to eat  
   
-  
+<img align="right" src="assets/bongo-cat-typing.gif" width="250">   
+    
 ### 🐈‍⬛ coding companions
 - pixel cats supervising commits [🔗](https://tonybaloney.github.io/vscode-pets/)  
 - cozy cat themed text editors [🔗](https://catppuccin.com/)  
