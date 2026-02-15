@@ -3,11 +3,11 @@
 <br>
     
 <img align="left" src="assets/call-the-spirits.gif" width="200">
-
-<div>
-    <p>          </p>
-    <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
-</div>
+<table>
+    <tr>
+        <td>i design systems that survive.<br> professional pixel tamer.<br> everything is throwaway until it's not.</td>
+    </tr>
+</table>
 <br><br>
 
 <!--<div align="left">&nbsp;&nbsp;&nbsp;
