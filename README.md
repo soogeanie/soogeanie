@@ -82,32 +82,39 @@ chaos      ▓▓▓░░░░░░░
 </div>
 <br><br>
 
-<details>
-  <summary><h2>developer lore</h2></summary>
+<h2>📜 developer lore 📜</h2>
 
-  1997 — opened microsoft paint. became unstoppable.
+1997 — opened microsoft paint. became unstoppable.  
+1998 — Comic Sans and gradients entered my life, chaos was born.  
+2002 — discovered HTML. felt powerful.  
+2003 — learned CSS, immediately made neon headings blink (don’t ask).  
+2005 — animated GIF headers everywhere. did it really need to blink? yes.  
+2008 — rewrote my homepage 3 times in one night, all pixel-perfect, all slightly cursed.  
+2010 — wrote something that worked first try (still thinking about it).  
+2014 — first JavaScript bug haunted me for a week.  
+2016 — discovered dark mode. transcended.  
+2020 — became one with the terminal.  
+2022 — achieved enlightment via `git reset HEAD^`.  
+2024 — shipped to production on a Friday.  
+present — still shipping to production on Fridays.  
   
-  1998 — Comic Sans and gradients entered my life, chaos was born.
+<br><br>
+<div align="center">
+<img src="assets/blue-hearts.gif" height="25">
+<img src="assets/blue-hearts.gif" height="25">
+<img src="assets/blue-hearts.gif" height="25">
+</div>
+<br><br>
+
+<details>
+  <summary><h3>frequently avoided questions</h3></summary>
+
+  **what stack do you use?**  
+  whatever feels emotionally aligned.
   
-  2002 — discovered HTML. felt powerful.
+  **tabs or spaces?**  
+  there's only 1 correct answer.
   
-  2003 — learned CSS, immediately made neon headings blink (don’t ask),
-  
-  2005 — animated GIF headers everywhere. did it really need to blink? yes.
-  
-  2008 — rewrote my homepage 3 times in one night, all pixel-perfect, all slightly cursed.
-  
-  2010 — wrote something that worked first try (still thinking about it).
-  
-  2014 — first JavaScript bug haunted me for a week,
-  
-  2016 — discovered dark mode. transcended.
-  
-  2020 — became one with the terminal.
-  
-  2022 — achieved enlightment via `git reset HEAD^`.
-  
-  2024 — shipped to production on a Friday.
-  
-  present — still shipping to production on Fridays.
+  **is this really you?**  
+  debatable.
 </details>
