@@ -1,9 +1,7 @@
 <div align="center">
   <img src="assets/moon-divider.gif" height="75">
 </div>
-
-<br>
-<h1><img src="assets/blinkies.gif" height="25"> welcome to my digital lair <img src="assets/blinkies.gif" height="25"></h1>
+<h1 align="center"><img src="assets/blinkies.gif" height="25"> welcome to my digital lair <img src="assets/blinkies.gif" height="25"></h1>
 <br>
     
 <img align="left" src="assets/call-the-spirits.gif" width="200">
