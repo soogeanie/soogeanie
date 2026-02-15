@@ -78,7 +78,7 @@ chaos      ▓▓▓░░░░░░░
 
 <br><br>
 <div align="center">
-<img src="assets/moon-divider.gif" height="60">
+<img src="assets/purple-bow-divider.gif" height="75">
 </div>
 <br><br>
 
@@ -118,3 +118,9 @@ present — still shipping to production on Fridays.
   **is this really you?**  
   debatable.
 </details>
+
+<br><br>
+<div align="center">
+<img src="assets/moon-divider.gif" height="75">
+</div>
+<br><br>
