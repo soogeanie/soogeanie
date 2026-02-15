@@ -3,7 +3,7 @@
 
 <div>
   <img align="left" src="assets/record-spinning.gif" width="300" style="padding-right: 20px;">
-  <div style="float: left; padding-left: 20px;">
+  <div align="right" style="padding-left: 20px;">
     <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
     <ul style="margin: 0; padding-left: 20px; disc-style: none;">
       <li>august burns red</li>
