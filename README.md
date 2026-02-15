@@ -1,4 +1,6 @@
 <h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1>
+
+<br>
     
 <img align="left" src="assets/call-the-spirits.gif" width="200">
     
@@ -24,7 +26,11 @@
 
 <br><br><br>
 
-<h2 align="center"><img src="assets/twinkling-stars.gif" width="25">  about  <img src="assets/twinkling-stars.gif" width="25"></h2>
+<img align="center" src="assets/moon-divider.gif" height="75">
+    
+<br><br>
+
+<h2 align="center">🌙  about</h2>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
     
@@ -39,7 +45,7 @@
   
     
 ### 🐈‍⬛ coding companions
-- <img src="assets/cat-typing.gif" width="25"> pixel cats supervising commits [🔗](https://tonybaloney.github.io/vscode-pets/)  
+- pixel cats supervising commits [🔗](https://tonybaloney.github.io/vscode-pets/)  
 - cozy cat themed text editors [🔗](https://catppuccin.com/)  
 - a terminal window softly glowing [🔗](https://draculatheme.com/warp)  
 - a forgotten glass of water always nearby  
@@ -47,7 +53,7 @@
 
 <br><br>
 
-<h2 align="center"><img src="assets/sparkles-sparkle.gif" width="25"> current system state <img src="assets/sparkles-sparkle.gif" width="25"></h2>
+<h2 align="center"><img src="assets/twinkling-stars.gif" width="25"> current system state <img src="assets/twinkling-stars.gif" width="25"></h2>
 
 | metric | status |
 |--------|--------|
