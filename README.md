@@ -1,5 +1,7 @@
 <h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1>
-
+<div align="center">
+<img src="assets/purple-bow-divider.gif" height="75">
+</div>
 <br>
     
 <img align="left" src="assets/call-the-spirits.gif" width="200">
@@ -24,12 +26,12 @@
   </ul>
 </div>
 
-<br><br><br><br>
-<div align="center">
-<img src="assets/blue-bows.gif" height="75">
-</div>
+<br><br><br>
 
 <h2 align="center">🌙  about  </h2>
+<div align="center">
+<img src="assets/moon-divider.gif" height="75">
+</div>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
     
@@ -86,7 +88,7 @@ chaos      ▓▓▓░░░░░░░
 
 <h2 align="center">📜 developer lore 📜</h2>
 <div align="center">
-<img src="assets/purple-bow-divider.gif" height="75">
+<img src="assets/blue-bows.gif" height="75">
 </div>
 
 1997 — opened microsoft paint. became unstoppable.  
