@@ -10,8 +10,7 @@
 > &nbsp;&nbsp; sometimes my code is haunted.  
 > &nbsp;&nbsp; sometimes i am haunted by my code.
 
-<br><br><br>
-
+<br><br><br><br>
 <div>
   <img align="right" src="assets/record-spinning.gif" width="300">
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
@@ -25,10 +24,7 @@
 
 <br><br><br>
 
-<div align="center"><img src="assets/moon-divider.gif" height="50"></div>
-<br><br>
-
-<h2 align="center"><img src="assets/twinkling-stars.gif" width="25">  about <img src="assets/twinkling-stars.gif" width="25"></h2>
+<h2 align="center"><img src="assets/twinkling-stars.gif" width="25">  about  <img src="assets/twinkling-stars.gif" width="25"></h2>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
     
@@ -43,14 +39,15 @@
   
     
 ### 🐈‍⬛ coding companions
-- pixel cats supervising commits [🔗](https://tonybaloney.github.io/vscode-pets/)  
+- <img src="assets/cat-typing.gif" width="25"> pixel cats supervising commits [🔗](https://tonybaloney.github.io/vscode-pets/)  
 - cozy cat themed text editors [🔗](https://catppuccin.com/)  
 - a terminal window softly glowing [🔗](https://draculatheme.com/warp)  
 - a forgotten glass of water always nearby  
 - collection of slightly cursed components  
 
+<br><br>
 
-## 🍵 current system state
+<h2 align="center"><img src="assets/sparkles-sparkle.gif" width="25"> current system state <img src="assets/sparkles-sparkle.gif" width="25"></h2>
 
 | metric | status |
 |--------|--------|
