@@ -2,9 +2,8 @@
 <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
 
 
-<img align="left" src="assets/record-spinning.gif" width="300">
-      
-<div align="left">
+<img align="right" src="assets/record-spinning.gif" width="300">
+<div>
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
   <ul style="margin: 0; padding-left: 20px; disc-style: none;">
     <li>august burns red</li>
