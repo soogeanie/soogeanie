@@ -1,10 +1,13 @@
 <h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1><br>
-<img align="right" src="assets/call-the-spirits.gif" width="200">
-<p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
-    
-> sometimes my code is haunted.  
-> sometimes i am haunted by my code.  
-  
+<img align="left" src="assets/call-the-spirits.gif" width="200">
+<div align="left">
+  <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
+
+  <blockquote>
+    sometimes my code is haunted.<br>
+    sometimes i am haunted by my code.
+  </blockquote>
+</div>
 <br>  
 <div>
   <img src="assets/record-spinning.gif" width="300">
