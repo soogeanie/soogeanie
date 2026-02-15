@@ -1,10 +1,11 @@
 <h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1>
 
 <br>
+    
+<img align="left" src="assets/call-the-spirits.gif" width="200">
 
 <div>
-    <img align="left" src="assets/call-the-spirits.gif" width="200">
-    <p>&nbsp;&nbsp;&nbsp;</p>
+    <p>          </p>
     <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
 </div>
 <br><br>
