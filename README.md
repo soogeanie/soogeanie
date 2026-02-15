@@ -26,7 +26,9 @@
 
 <br><br><br><br>
 <div align="center">
-  <img src="assets/moon-divider.gif" height="50">
+<img src="assets/moon-divider.gif" height="50">
+<img src="assets/moon-divider.gif" height="50">
+<img src="assets/moon-divider.gif" height="50">
 </div>
 <br>
 
