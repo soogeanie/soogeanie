@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1>
     
-<img align="left" src="assets/call-the-spirits.gif" width="200">
+<img align="right" src="assets/call-the-spirits.gif" width="200">
     
 &nbsp;&nbsp; i design systems that survive.  
 &nbsp;&nbsp; professional pixel tamer.  
@@ -11,8 +11,8 @@
 > &nbsp;&nbsp; sometimes i am haunted by my code.
 
 <br><br><br>
+<img align="left" src="assets/record-spinning.gif" width="300">
 <div>
-  <img align="right" src="assets/record-spinning.gif" width="300">
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
   <ul style="margin: 0; padding: 0;">
     <li>august burns red</li>
