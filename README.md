@@ -30,9 +30,11 @@
 </div>
 <br>
 
-<h2 align="center"><img src="assets/sky-moon.gif" height="25">  about </h2>
+<h2 align="center"> 🌙  about </h2>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
+
+<img src="assets/sky-moon.gif" width="75">
     
 **likes:**
 - iced matcha americanos  
