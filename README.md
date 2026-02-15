@@ -3,12 +3,11 @@
     <summary>
       <h1>welcome to my digital lair</h1>
       <div align="center">
-        <img src="assets/blue-bows.gif" height="100">
+        <img src="assets/moon-divider.gif" height="75">
       </div>
     </summary>
   </ul>
 </div>
-<br>
     
 <img align="left" src="assets/call-the-spirits.gif" width="200">
     
@@ -46,7 +45,7 @@
     <summary>
       <h2 align="center">about</h2>
       <div align="center">
-        <img src="assets/purple-bow-divider.gif" height="50">
+        <img src="assets/blue-bows.gif" height="75">
       </div>
     </summary>
   </ul>
