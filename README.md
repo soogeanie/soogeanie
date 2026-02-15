@@ -4,7 +4,7 @@
 
 <img align="left" src="assets/record-spinning.gif" width="300">
       
-<div align="right">
+<div align="left">
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
   <ul style="margin: 0; padding-left: 20px; disc-style: none;">
     <li>august burns red</li>
