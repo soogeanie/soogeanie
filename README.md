@@ -2,9 +2,9 @@
     
 <img align="left" src="assets/call-the-spirits.gif" width="200">
     
-i design systems that survive.  
-professional pixel tamer.  
-everything is throwaway until it's not  
+&nbsp;&nbsp; i design systems that survive.  
+&nbsp;&nbsp; professional pixel tamer.  
+&nbsp;&nbsp; everything is throwaway until it's not  
   
   
 > sometimes my code is haunted.  
