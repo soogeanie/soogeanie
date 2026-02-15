@@ -30,7 +30,7 @@
 </div>
 <br>
 
-<h2 align="center"><img src="assets/blue-hearts.gif" height="25">  about <img src="assets/blue-hearts.gif" height="25"></h2>
+<h2 align="center"><img src="assets/sky-moon.gif" height="25">  about </h2>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
     
