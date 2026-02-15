@@ -33,17 +33,13 @@
 - forgets to eat  
   
   
-<h2><img src="assets/cat-typing.gif" width="25> coding companions</h2>
-<div>
-  <ul>
-    <li>pixel cats supervising commits [🔗](https://tonybaloney.github.io/vscode-pets/)</li>
-    <li>cozy cat themed text editors [🔗](https://catppuccin.com/)</li>
-    <li>a terminal window softly glowing [🔗](https://draculatheme.com/warp)</li>
-    <li>a forgotten glass of water always nearby</li>
-    <li>collection of slightly cursed components</li>
-  </ul>  
-</div>
-<br><br><br>
+### <img src="assets/cat-typing.gif" width="50"> coding companions
+- pixel cats supervising commits [🔗](https://tonybaloney.github.io/vscode-pets/)  
+- cozy cat themed text editors [🔗](https://catppuccin.com/)  
+- a terminal window softly glowing [🔗](https://draculatheme.com/warp)  
+- a forgotten glass of water always nearby  
+- collection of slightly cursed components  
+
 
 ## 🍵 current system state
 
