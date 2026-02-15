@@ -1,6 +1,4 @@
 <h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1>
-
-<br>
     
 <img align="right" src="assets/call-the-spirits.gif" width="200">
     
@@ -9,12 +7,13 @@ professional pixel tamer.
 everything is throwaway until it's not  
   
   
-> sometimes my code is haunted.
+> sometimes my code is haunted.  
 > sometimes i am haunted by my code.
 
 <br><br>
-<img align="right" src="assets/record-spinning.gif" width="300">
 <div>
+  <img src="assets/record-spinning.gif" width="300">
+  <br>
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
   <ul style="margin: 0; padding: 0;">
     <li>august burns red</li>
