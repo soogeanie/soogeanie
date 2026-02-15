@@ -1,12 +1,14 @@
 <h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1><br>
 <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
 
+<img align="right" src="assets/call-the-spirits.gif" width="200">
+    
 > sometimes my code is haunted.  
 > sometimes i am haunted by my code.  
   
   
-<img align="right" src="assets/record-spinning.gif" width="300">
 <div>
+  <img src="assets/record-spinning.gif" width="300">
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
   <ul style="margin: 0; padding: 0;">
     <li>august burns red</li>
@@ -20,7 +22,8 @@
   
 <div align="center"><img src="assets/moon-divider.gif" height="50"></div>
 <br><br><br>
-  
+
+<img align="right" src="assets/bongo-cat-typing.gif" width="250">   
 ## 🌙 about  
 
 **likes:**  
@@ -32,7 +35,6 @@
 **known issues:**  
 - forgets to eat  
   
-<img align="right" src="assets/bongo-cat-typing.gif" width="250"> 
   
 ### 🐈‍⬛ coding companions
 - pixel cats supervising commits [🔗](https://tonybaloney.github.io/vscode-pets/)  
