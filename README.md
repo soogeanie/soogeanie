@@ -1,7 +1,10 @@
-<h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1><br>
+<h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1>
+
+<br>
+
 <img align="left" src="assets/call-the-spirits.gif" width="200">
-<br><br>
-<div align="left">
+
+<div align="left" style="padding-left: 20px;">
   <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
 
   <blockquote>
@@ -9,7 +12,9 @@
     sometimes i am haunted by my code.
   </blockquote>
 </div>
-<br>  
+
+<br><br>  
+
 <div>
   <img src="assets/record-spinning.gif" width="300">
   <br>
@@ -21,6 +26,7 @@
     <li>linkin park 💖</li> 
   </ul>
 </div>
+
 <br><br>
 <div align="center"><img src="assets/moon-divider.gif" height="50"></div>
 <br><br>
