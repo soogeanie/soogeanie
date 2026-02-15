@@ -2,23 +2,17 @@
 
 <br>
     
-<img align="left" src="assets/call-the-spirits.gif" width="200">
-<table style="padding-left: 20px;">
-    <tr>
-        <td>i design systems that survive.<br> professional pixel tamer.<br> everything is throwaway until it's not.</td>
-    </tr>
-</table>
+<img align="right" src="assets/call-the-spirits.gif" width="200">
+    
+i design systems that survive.  
+professional pixel tamer.  
+everything is throwaway until it's not  
+  
+  
+> sometimes my code is haunted.
+> sometimes i am haunted by my code.
+
 <br><br>
-
-<!--<div align="left">&nbsp;&nbsp;&nbsp;
-  <p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
-
-  <blockquote>
-    sometimes my code is haunted.<br>
-    sometimes i am haunted by my code.
-  </blockquote>
-</div>-->
-
 <img align="right" src="assets/record-spinning.gif" width="300">
 <div>
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
