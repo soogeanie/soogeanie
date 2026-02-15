@@ -8,7 +8,7 @@
     </summary>
   </ul>
 </div>
-<br><br>
+<br>
     
 <img align="left" src="assets/call-the-spirits.gif" width="200">
     
@@ -20,7 +20,12 @@
 > &nbsp;&nbsp; sometimes my code is haunted.  
 > &nbsp;&nbsp; sometimes i am haunted by my code.
 
-<br><br><br><br>
+<br><br>
+<div align="center">
+<img src="assets/pink-divider.gif" height="20">
+</div>
+<br><br>
+
 <div>
   <img align="right" src="assets/record-spinning.gif" width="300">
   <b>🎧 currently listening to:</b> <em><b>something slightly dramatic</b></em>
