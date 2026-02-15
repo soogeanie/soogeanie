@@ -1,7 +1,6 @@
 <h1 align="center"> <img src="assets/blinkies.gif" width="25"> welcome to my digital lair <img src="assets/blinkies.gif" width="25"> </h1><br>
-<p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
-
 <img align="right" src="assets/call-the-spirits.gif" width="200">
+<p>i design systems that survive. <br/>professional pixel tamer. <br/>everything is throwaway until it's not.</p>
     
 > sometimes my code is haunted.  
 > sometimes i am haunted by my code.  
@@ -18,15 +17,13 @@
     <li>linkin park 💖</li> 
   </ul>
 </div>
-<br><br><br>
-  
-  
+<br><br>
 <div align="center"><img src="assets/moon-divider.gif" height="50"></div>
-<br><br><br>
+<br><br>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
-## 🌙 about  
 
+## 🌙 about  
 **likes:**  
 - iced matcha americanos  
 - cats judging my code  
