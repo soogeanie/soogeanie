@@ -20,11 +20,11 @@
 > &nbsp;&nbsp; sometimes my code is haunted.  
 > &nbsp;&nbsp; sometimes i am haunted by my code.
 
-<br><br>
+<br><br><br><br>
 <div align="center">
-<img src="assets/pink-divider.gif" height="20">
-<img src="assets/pink-divider.gif" height="20">
-<img src="assets/pink-divider.gif" height="20">
+<img src="assets/pink-divider.gif" height="25">
+<img src="assets/pink-divider.gif" height="25">
+<img src="assets/pink-divider.gif" height="25">
 </div>
 <br><br>
 
@@ -41,7 +41,7 @@
 
 <br><br><br>
 
-<div align="center">
+<div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
     <summary>
       <h2 align="center">about</h2>
@@ -72,7 +72,16 @@
 - collection of slightly cursed components  
 
 
-<h2 align="center"><img src="assets/twinkling-stars.gif" width="25"> current system state <img src="assets/twinkling-stars.gif" width="25"></h2>
+<div id="user-content-toc" align="center">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 align="center">current system state</h2>
+      <div align="center">
+        <img src="assets/blue-bows.gif" height="75">
+      </div>
+    </summary>
+  </ul>
+</div>
 
 <img align="right" src="assets/sky-moon.gif" width="300"> 
   
@@ -99,9 +108,6 @@ chaos      ▓▓▓░░░░░░░
 <br><br>
 
 <h2 align="center">📜 developer lore 📜</h2>
-<div align="center">
-<img src="assets/blue-bows.gif" height="75">
-</div>
 
 1997 — opened microsoft paint. became unstoppable.  
 1998 — Comic Sans and gradients entered my life, chaos was born.  
