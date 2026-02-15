@@ -2,7 +2,6 @@
   <img src="assets/moon-divider.gif" height="75">
 </div>
 <h1 align="center"><img src="assets/blinkies.gif" height="25"> welcome to my digital lair <img src="assets/blinkies.gif" height="25"></h1>
-<br>
     
 <img align="left" src="assets/call-the-spirits.gif" width="200">
     
@@ -14,7 +13,7 @@
 > &nbsp;&nbsp; sometimes my code is haunted.  
 > &nbsp;&nbsp; sometimes i am haunted by my code.
 
-<br><br><br><br>
+<br><br><br>
 <div align="center">
 <img src="assets/pink-divider.gif" height="25">
 <img src="assets/pink-divider.gif" height="25">
@@ -38,10 +37,10 @@
 <div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h2 align="center">about</h2>
       <div align="center">
         <img src="assets/blue-bows.gif" height="75">
       </div>
+      <h2 align="center">about</h2>
     </summary>
   </ul>
 </div>
