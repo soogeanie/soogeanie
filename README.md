@@ -52,7 +52,9 @@
 
 <br><br>
 <div align="center">
-<img src="assets/moon-divider.gif" height="50">
+<img src="assets/pink-divider.gif" height="25">
+<img src="assets/pink-divider.gif" height="25">
+<img src="assets/pink-divider.gif" height="25">
 </div>
 <br><br>
 
@@ -76,7 +78,7 @@ chaos      ▓▓▓░░░░░░░
 
 <br><br>
 <div align="center">
-<img src="assets/pink-divider.gif" height="25">
+<img src="assets/moon-divider.gif" height="60">
 </div>
 <br><br>
 
