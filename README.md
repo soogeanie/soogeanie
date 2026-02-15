@@ -25,7 +25,10 @@
 
 <br><br><br>
 
-<h2 align="center" valign="center"><img src="assets/moon-divider.gif" height="30">  about <img src="assets/moon-divider.gif" height="30"></h2>
+<div align="center"><img src="assets/moon-divider.gif" height="50"></div>
+<br><br>
+
+<h2 align="center"><img src="assets/twinkling-stars.gif" width="25">  about <img src="assets/twinkling-stars.gif" width="25"></h2>
 
 <img align="right" src="assets/bongo-cat-typing.gif" width="250">   
     
