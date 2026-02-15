@@ -7,8 +7,8 @@
 &nbsp;&nbsp; everything is throwaway until it's not  
   
   
-&nbsp; > sometimes my code is haunted.  
-&nbsp; > sometimes i am haunted by my code.
+> &nbsp;&nbsp; sometimes my code is haunted.  
+> &nbsp;&nbsp; sometimes i am haunted by my code.
 
 <br><br>
 <div>
