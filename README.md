@@ -129,6 +129,7 @@ present — still shipping to production on Fridays.
 <br><br>
 
 #### frequently avoided questions
+<hr>
 **what stack do you use?**  
 whatever feels emotionally aligned.
 
