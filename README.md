@@ -51,6 +51,10 @@
 - collection of slightly cursed components  
 
 <br><br>
+<div align="center">
+<img src="assets/moon-divider.gif" height="50">
+</div>
+<br><br>
 
 <h2 align="center"><img src="assets/twinkling-stars.gif" width="25"> current system state <img src="assets/twinkling-stars.gif" width="25"></h2>
 
@@ -72,7 +76,7 @@ chaos      ▓▓▓░░░░░░░
 
 <br><br>
 <div align="center">
-<img src="assets/pink-divider.gif" height="50">
+<img src="assets/pink-divider.gif" height="25">
 </div>
 <br><br>
 
