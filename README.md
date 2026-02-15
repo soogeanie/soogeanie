@@ -23,11 +23,14 @@
   </ul>
 </div>
 
-<br><br>
+<br><br><br>
+
 <div align="center"><img src="assets/moon-divider.gif" height="50"></div>
 <br><br>
 
-## 🌙 about  
+<h2 align="center> 🌙 _about_ </h2>
+  
+  
 **likes:**  
 - iced matcha americanos  
 - cats judging my code  
