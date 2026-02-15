@@ -2,12 +2,12 @@
 
 <br>
     
-<table style="border: none;">
-  <tr style="border: none;">
-    <td width="200" valign="top" style="border: none;">
+<table cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="200" valign="top">
     <img src="assets/call-the-spirits.gif" width="200" alt="call the spirits">
     </td>
-    <td valign="top" style="border: none;">
+    <td valign="top">
     i design systems that survive.<br>
     professional pixel tamer.<br>
     everything is throwaway until it's not.<br><br>
