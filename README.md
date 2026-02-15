@@ -13,7 +13,7 @@
 > &nbsp;&nbsp; sometimes my code is haunted.  
 > &nbsp;&nbsp; sometimes i am haunted by my code.
 
-<br><br><br>
+<br><br><br><br>
 <div align="center">
 <img src="assets/pink-divider.gif" height="25">
 <img src="assets/pink-divider.gif" height="25">
