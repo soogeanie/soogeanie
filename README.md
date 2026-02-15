@@ -26,9 +26,7 @@
 
 <br><br><br><br>
 <div align="center">
-<img src="assets/blue-hearts.gif" height="25">
-<img src="assets/blue-bows.gif" height="50">
-<img src="assets/blue-hearts.gif" height="25">
+<img src="assets/blue-bows.gif" height="75">
 </div>
 <br>
 
