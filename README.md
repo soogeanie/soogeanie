@@ -26,9 +26,9 @@
 
 <br><br><br><br>
 <div align="center">
-<img src="assets/pink-divider.gif" height="40">
-<img src="assets/pink-divider.gif" height="40">
-<img src="assets/pink-divider.gif" height="40">
+<img src="assets/pink-divider.gif" height="25">
+<img src="assets/pink-divider.gif" height="25">
+<img src="assets/pink-divider.gif" height="25">
 </div>
 <br>
 
