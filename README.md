@@ -3,9 +3,9 @@
 
 <img align="left" src="assets/record-spinning.gif" width="300">
 
-<div style="margin-left: 20px;">
+<div style="padding-left: 20px;">
   <b>🎧 currently listening to:</b> <em>something slightly dramatic</em>
-  <ul style="margin: 0; padding: 0;">
+  <ul style="margin: 0; padding-left: 20px;">
     <li>august burns red</li>
     <li>i prevail</li>
     <li>bring me the horizon</li>
